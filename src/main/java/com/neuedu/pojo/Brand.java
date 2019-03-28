@@ -1,4 +1,4 @@
 package com.neuedu.pojo;
 
-public class brand {
+public class Brand {
 }
